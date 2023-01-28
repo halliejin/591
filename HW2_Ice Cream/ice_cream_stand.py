@@ -1,20 +1,3 @@
-"""
-STARTER CODE
-Homework 2: Ice Cream Stand
-Topics Covered:
-- Lists (append, pop)
-- For and while loops
-- Getting user inputs
-- Validating user inputs
-- Functions and helper functions
-- Formatted Strings
-"""
-
-# TODO: Students, fill out statement of work header
-# Student Name in Canvas: Zihan Jin
-# Penn ID: 21082635
-# Did you do this homework on your own (yes / no): Yes
-# Resources used outside course materials:
 
 # import statements
 import random
