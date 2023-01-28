@@ -1,7 +1,3 @@
-# Name: Zihan Jin
-# Penn ID: 21082635
-# Statement of Work: I worked alone without help.
-
 
 # import the random module
 import random
