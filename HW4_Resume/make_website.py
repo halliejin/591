@@ -1,8 +1,3 @@
-# Student Name in Canvas: Zihan Jin
-# Penn ID: 21082635
-# Did you do this homework on your own (yes / no): Yes
-# Resources used outside course materials: None
-
 def read_the_file(file):
     '''
     This function reads the file line by line and store the lines in a list
