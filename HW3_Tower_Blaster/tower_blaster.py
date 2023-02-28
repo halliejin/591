@@ -1,8 +1,3 @@
-# Student Name in Canvas: Zihan Jin
-# Penn ID: 21082635
-# Did you do this homework on your own (yes / no): Yes
-# Resources used outside course materials: None
-
 import random
 
 
